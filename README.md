@@ -2,9 +2,9 @@
 
 <p> Click the pictures below for which site you want to go to! </p>
 
-<a href="https://markreifke.github.io/Password-Generator/"><img src="assets/img/indexhtml.jpg" alt="Code-Refractor"
+<a href="https://markreifke.github.io/Password-Generator/"><img src="assets/img/indexhtml.jpg" alt="Password-Generator"
           width="250" height="250"> </a>
-<a href="https://github.com/MarkReifke/Password-Generator"><img src="assets/img/github.jpg" alt="Code-Refractor"
+<a href="https://github.com/MarkReifke/Password-Generator"><img src="assets/img/github.jpg" alt="Password-Generator"
           width="250" height="250"> </a>          
 
 Your Task
