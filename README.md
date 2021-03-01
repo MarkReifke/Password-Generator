@@ -36,7 +36,7 @@ Mock-Up
 The following image shows the web application's appearance and functionality:
 
 The Password Generator application displays a red button to "Generate Password".
-<a href="https://github.com/MarkReifke/MarkReifke-Portfolio"><img src="img/link.jpg" alt="Password-Generator"
+<a href="https://github.com/MarkReifke/Password-Generator"><img src="img/link.jpg" alt="Password-Generator"
           width="250" height="250"> </a>
 Grading Requirements
 This homework is graded based on the following criteria:
