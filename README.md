@@ -2,9 +2,9 @@
 
 <p> Click the pictures below for which site you want to go to! </p>
 
-<a href="https://markreifke.github.io/Password-Generator/"><img src="assets/img/indexhtml.jpg" alt="Password-Generator"
+<a href="https://markreifke.github.io/Password-Generator/"><img src="img/indexhtml.jpg" alt="Password-Generator"
           width="250" height="250"> </a>
-<a href="https://github.com/MarkReifke/Password-Generator"><img src="assets/img/github.jpg" alt="Password-Generator"
+<a href="https://github.com/MarkReifke/Password-Generator"><img src="img/github.jpg" alt="Password-Generator"
           width="250" height="250"> </a>          
 
 Your Task
@@ -36,7 +36,7 @@ Mock-Up
 The following image shows the web application's appearance and functionality:
 
 The Password Generator application displays a red button to "Generate Password".
-<a href="https://github.com/MarkReifke/MarkReifke-Portfolio"><img src="assets/img/link.jpg" alt="Password-Generator"
+<a href="https://github.com/MarkReifke/MarkReifke-Portfolio"><img src="img/link.jpg" alt="Password-Generator"
           width="250" height="250"> </a>
 Grading Requirements
 This homework is graded based on the following criteria:
