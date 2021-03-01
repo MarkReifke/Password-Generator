@@ -1,5 +1,12 @@
 # Password-Generator
 
+<p> Click the pictures below for which site you want to go to! </p>
+
+<a href="https://markreifke.github.io/Password-Generator/"><img src="assets/img/indexhtml.jpg" alt="Code-Refractor"
+          width="250" height="250"> </a>
+<a href="https://github.com/MarkReifke/Password-Generator"><img src="assets/img/github.jpg" alt="Code-Refractor"
+          width="250" height="250"> </a>          
+
 Your Task
 This week’s homework requires you to modify starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished, responsive user interface that adapts to multiple screen sizes.
 
@@ -29,7 +36,8 @@ Mock-Up
 The following image shows the web application's appearance and functionality:
 
 The Password Generator application displays a red button to "Generate Password".
-
+<a href="https://github.com/MarkReifke/MarkReifke-Portfolio"><img src="assets/img/link.jpg" alt="Code-Refractor"
+          width="250" height="250"> </a>
 Grading Requirements
 This homework is graded based on the following criteria:
 
